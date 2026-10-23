@@ -1,4 +1,3 @@
-
 def cel_to_fah(c):
     return (c * 9/5) + 32
 
